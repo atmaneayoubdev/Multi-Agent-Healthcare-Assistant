@@ -24,8 +24,6 @@ The **Multi-Agent Medical Assistant** is an **AI-powered chatbot** designed to a
 🔹 **⚡ Confidence-Based Routing** & **Agent-to-Agent Handoff**  
 🔹 **🔒 Scalable, Production-Ready AI with Modularized Code & Robust Exception Handling**  
 
-📂 **For learners**: Check out [`agents/README.md`](agents/README.md) for a **detailed breakdown** of the agentic workflow! 🎯  
-
 
 <!-- ## 🌟 Key Features  <a name="key-features"></a>
 ✅ **Multi-Agent System** – Separate agents handle different tasks (diagnosis, retrieval, reasoning, etc.).  
